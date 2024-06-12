@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Technologies Used
+
+- [Next.js 14](https://nextjs.org/docs/getting-started)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Apollo GraphQL](https://www.apollographql.com/)
+
 ## Getting Started
 
 First, run the development server:
